@@ -1,4 +1,9 @@
 img {
     border: 3px solid;
-    width: 20%;
+    width: 100px;
   }
+
+hr.solid {
+  border-top: 3px solid rgb(92, 92, 92);
+}
+
