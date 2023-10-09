@@ -87,7 +87,7 @@ input[type="checkbox"] {
 }
 
 
-/*-------------Tablet View (For Responsive Design)--------------*/
+/*-- Tablet View (For Responsive Design) --*/
 
 @media screen and (max-width: 833px) {
     .input-field {
@@ -103,7 +103,7 @@ input[type="checkbox"] {
 }
 
 
-/*-------------Mobile View (For Responsive Design)--------------*/
+/*-- Mobile View (For Responsive Design) --*/
 
 @media screen and (max-width: 520px) {
     .labels {
